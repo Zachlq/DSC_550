@@ -1,19 +1,9 @@
 # DSC_550
 
-Pt. 1 Charm - 
+This folder contains a summation of my work in DSC 550: Data Mining. The course focused on the conception, translation and implementation of associative mining algorithms in a practical business-driven context. Some of the  algorithms examined in the course and featured in this folder include DENCLUE, CHARM and Gradient Descent. 
 
-For the Charm algorithm, please review the Charm_Sample file as well as the Charm_Mushroom. 
-I was able to group item sets using a smaller sample file, but not able to do so using the mushroom.txt file due to a key error. 
+# Final Project
 
-Pt 2. Derivable item sets.
+The final project folder contains the files associated with my project: And Now, the Fake News, a classification project to distinguish information from disinformation. Using recent data (less than four years old), the project utilized natural language processing techniques (NLP) to train a model to make a binary decision of true or untrue. The model was then assessed with various classification algorithm pipelines including Support Vector Machine, linear regression, Naive Bayes and KNN. Naive Bayes displayed the weakest precision and accuracy rates while the support vector machine methodology yielded the highest accuracy rate of nearly 97%.   
 
-Due to my confusion with Charm, pt. 2 is not entirely complete. However, I included extensive comments detailing pseduo code and logic
-for how I would approach creating an algorithm to handle this problem. 
 
-Pt 3. 
-
-I was able to compute all metrics except for diagonals and nearest neighbors. 
-
-Pt. 4
-
-The problem set from the Mining of Massive Data Sets textbook. 
